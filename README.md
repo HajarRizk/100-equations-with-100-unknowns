@@ -32,7 +32,7 @@ substitute x2 1 3:Remove the variable x2 from equation 1 by substituting it with
 
 Examples:
 
-1)
+Example_1:
 
 3
 
@@ -48,7 +48,7 @@ num_vars
 
 4
 
-2)
+Example_2:
 
 3
 
@@ -64,7 +64,7 @@ equation 2
 1x1+2x2+1x3=8
 
 
-3)
+Example_3:
 
 3
 
@@ -80,7 +80,7 @@ add 1 3
 4x1+4x2+6x3+x4=29
 
 
-4)
+Example_4:
 
 3
 
