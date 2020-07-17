@@ -46,7 +46,7 @@ num_vars
 
 
 
-4
+Output: 4
 
 Example_2:
 
@@ -61,7 +61,7 @@ Example_2:
 equation 2
 
 
-1x1+2x2+1x3=8
+Output: 1x1+2x2+1x3=8
 
 
 Example_3:
@@ -77,7 +77,7 @@ Example_3:
 add 1 3
 
 
-4x1+4x2+6x3+x4=29
+Output: 4x1+4x2+6x3+x4=29
 
 
 Example_4:
@@ -93,6 +93,6 @@ Example_4:
 substitute x2 1 3
 
 
--7x1-2x3-3x4=-23 or 7x1+2x3+3x4=23
+Output: -7x1-2x3-3x4=-23 or 7x1+2x3+3x4=23
 
 
