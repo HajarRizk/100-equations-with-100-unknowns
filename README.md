@@ -7,8 +7,7 @@ and read another operation till the program read the operation quit which ends t
 equations
 
 operations:
-num_vars: Print the number of
-variables in the equations.
+num_vars: Print the number of variables in the equations.
 equation i: Print equation number i (i is integer) in proper form to variable is repeated any varibles on the right hand and only one constant on left hand
 column x2: Print the column of coefficients of variable (x2).Print the vector of coefficients of the given variable name. (x2 can be replaced by any variable
 name)
